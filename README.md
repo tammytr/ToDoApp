@@ -6,6 +6,4 @@ A minimal to do list app for iOS in Swift. Tasks can be ordered according to due
 
 
 ## Screenshots
-<img src="/Screenshots/screenshot1.jpg" height="500px"/> <img src="/Screenshots/screenshot2.jpg" height="500px"/> 
-
-<img src="/Screenshots/screenshot3.jpg" height="500px"/> <img src="/Screenshots/screenshot4.jpg" height="500px"/> 
+<img src="/Screenshots/screenshot1.jpg" height="500px"/> <img src="/Screenshots/screenshot2.jpg" height="500px"/> <img src="/Screenshots/screenshot3.jpg" height="500px"/> <img src="/Screenshots/screenshot4.jpg" height="500px"/> 
